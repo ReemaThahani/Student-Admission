@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZZCCIT_DT_9292",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "Zzccit_Dt_9292",
+  "sapObjectType": "Zzccit_Dt_9292",
+  "rootNode": true
+}

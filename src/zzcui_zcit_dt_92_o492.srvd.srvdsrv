@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZZCC_CIT_DT_9292'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZZCC_CIT_DT_9292'
+  }
+}
+define service ZZCUI_ZCIT_DT_92_O492 provider contracts odata_v4_ui {
+  expose ZZCC_CIT_DT_9292;
+}
